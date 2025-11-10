@@ -4,9 +4,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-End;Apaixonado+por+Tecnologia;Sempre+Aprendendo+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
-## 🚀 Sobre Mim
+##
 
-✨ Sou **Desenvolvedor Back-End** com formação em **Análise e Desenvolvimento de Sistemas**
+✨ Sou **Desenvolvedor Back-End** em formação em **Análise e Desenvolvimento de Sistemas**
 
 🎯 Tenho paixão por criar **interfaces atrativas**, **aplicações móveis** e **soluções backend eficientes** com **Java**, **Node.js** e **Firebase**
 
