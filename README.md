@@ -1,4 +1,3 @@
-# 👋 Olá, eu sou Jefferson Torres!
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-End;Apaixonado+por+Tecnologia" alt="Typing SVG" />
@@ -6,7 +5,7 @@
 
 ##
 
-✨ Sou **Desenvolvedor Back-End** em formação em **Análise e Desenvolvimento de Sistemas**
+✨ Olá, eu sou Jefferson Torres! Sou **Desenvolvedor Back-End** Jr developer em especialização em Java, com foco no desenvolvimento de soluções backend robustas e escaláveis. Atualmente aprofundando conhecimentos em Java, com interesse especial em sistemas de investimentos e soluções financeiras. Estou continuamente fazendo pequenos projetos com uma arquitetura de software forte, além de microsserviços, integração de sistemas de alta performance, com o objetivo de construir uma expertise sólida na área**
 
 🎯 Tenho paixão por criar **interfaces atrativas**, **aplicações móveis** e **soluções backend eficientes** com **Java**, **Node.js** e **Firebase**
 
