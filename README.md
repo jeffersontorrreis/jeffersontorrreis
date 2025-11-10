@@ -31,15 +31,6 @@ Olá, eu sou Jefferson Torres! Sou **Desenvolvedor Back-End**, com foco no desen
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CezinhaDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CezinhaDev&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CezinhaDev&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
 ---
 
 ## 🎯 Um Pouco de Código...
