@@ -80,9 +80,3 @@ public class HelloWorld {
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=CezinhaDev&color=blueviolet&style=flat-square&label=Visitantes+do+Perfil" alt="Profile views" />
 </div>
-
-<div align="center">
-  
-### 💡 *"A melhor maneira de prever o futuro é criá-lo"* 
-  
-</div>
