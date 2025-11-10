@@ -4,23 +4,26 @@
 </div>
 
 
-✨ Olá, eu sou Jefferson Torres! Sou **Desenvolvedor Back-End**, com foco no desenvolvimento de soluções robustas e escaláveis. Atualmente aprofundando conhecimentos em Java, com interesse especial em sistemas de investimentos e soluções financeiras. Estou continuamente fazendo pequenos projetos com uma arquitetura de software forte, além de microsserviços, integração de sistemas de alta performance, com o objetivo de construir uma expertise sólida na área
+Olá, eu sou Jefferson Torres! Sou **Desenvolvedor Back-End**, com foco no desenvolvimento de soluções robustas e escaláveis. Atualmente aprofundando conhecimentos em Java, com interesse especial em sistemas de investimentos e soluções financeiras. Estou continuamente fazendo pequenos projetos com uma arquitetura de software forte, além de microsserviços, integração de sistemas de alta performance, com o objetivo de construir uma expertise sólida na área
 
 🎯 Tenho paixão por criar **soluções backend eficientes** com **Java**, **Spring Boot** e **Postgree**
 
-🌱 Em busca de oportunidades para **crescer profissionalmente** e **contribuir com projetos desafiadores**
+♻️ Em busca de oportunidades para **crescer profissionalmente** e **contribuir com projetos desafiadores**
 
 💼 **Portfólio:** [Em breve](https://meuportfolio)
 
 
-## 💻 Tecnologias & Ferramentas
+
+
+## Tecnologias & Ferramentas
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -42,14 +45,22 @@
 ## 🎯 Um Pouco de Código...
 
 ```java
-public class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("Hello, World! 🚀");
-    }
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class Application {
+
+	public static void main(String[] args) {
+		
+        SpringApplication.run(Application.class, args);
+	}
+
 }
+
 ```
 
----
+
 
 ## 📫 Contato
 
@@ -59,10 +70,4 @@ public class HelloWorld {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jeffersontorreis)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://#)
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=CezinhaDev&color=blueviolet&style=flat-square&label=Visitantes+do+Perfil" alt="Profile views" />
 </div>
