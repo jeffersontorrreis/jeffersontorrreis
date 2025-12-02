@@ -9,7 +9,6 @@ Olá, eu sou Jefferson Torres! Sou **Desenvolvedor Back-End**, com foco no desen
 
 ♻️ Em busca de oportunidades para **crescer profissionalmente** e **contribuir com projetos desafiadores**
 
-💼 **Portfólio:** [Em breve](https://meuportfolio)
 
 
 
