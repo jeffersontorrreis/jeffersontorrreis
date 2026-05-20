@@ -4,7 +4,7 @@
 </div>
 
 
-Olá, eu sou Jefferson Torres! Sou **Desenvolvedor Back-End**, com foco no desenvolvimento de soluções robustas e escaláveis. Atualmente aprofundando conhecimentos em Java, com interesse especial em sistemas de investimentos e soluções financeiras. Estou continuamente fazendo pequenos projetos com uma arquitetura de software forte, além de microsserviços, integração de sistemas de alta performance, com o objetivo de construir uma expertise sólida na área
+Olá, eu sou Jefferson Torres! Sou **Desenvolvedor Back-End**, com foco em soluções robustas e escaláveis. Estou continuamente fazendo pequenos projetos com uma arquitetura forte, além de microsserviços, integrações e com o objetivo de construir uma expertise sólida.
 
 
 ## Tecnologias & Ferramentas
